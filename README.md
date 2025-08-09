@@ -23,5 +23,5 @@ It detects feelings like happy, sad, angry, or surprised, making it useful for m
 ## Installation
 1. Download this project:
    ```bash
-   git clone https://github.com/yourusername/Face-Emotion-Recognition.git
+   git clone https://github.com/Roshan12345689/Face-Emotion-Recognition.git
    cd Face-Emotion-Recognition
